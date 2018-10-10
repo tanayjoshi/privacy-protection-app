@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { AppRegistry, Button, FlatList, NavigatorIOS, StyleSheet, Text, TouchableHighlight, View } from 'react-native';
 import { StackNavigator, TabNavigator } from 'react-navigation'
 import { List, ListItem } from "react-native-elements";
-import file from './csvjson.json'
+import file from '../csvjson.json'
 import Details from './Details.js'
 import Installed from './Installed.js'
 

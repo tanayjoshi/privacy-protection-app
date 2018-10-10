@@ -6,7 +6,7 @@ import { List, ListItem } from "react-native-elements";
 
 import Distribution from './Distribution'
 import Details from './Details'
-import file from './csvjson.json'
+import file from '../csvjson.json'
 
 import { AppInstalledChecker, CheckPackageInstallation } from 'react-native-check-app-install';
 
